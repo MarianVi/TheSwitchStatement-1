@@ -1,0 +1,1 @@
+Folosind instrucțiunea switch, scrie un program care citește de la tastatură un caracter și afișează cuvântul care începe cu acel caracter. Tratați doar cazurile pentru caracterele d - delta, e - echo, v - victor, și s - sierra. Afișați mesajul de eroare Litera invalida! pentru orice alte litere introduse. 
